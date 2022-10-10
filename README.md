@@ -10,8 +10,10 @@ With this project we learned to simulate eye movement with a mouse cursor displa
 
 ## How To Run:
 
-- Download the Eyeball Movement project files.
+- Download the Eyeball Movement project files. 
 - Run the Eyeball Movement files on supporting web browers.
+- Hover Mouse/Move cursor along screen.
+- Watch eye's move.
     
 ## Roadmap of future improvements:
 
